@@ -38,18 +38,17 @@ git clone https://github.com/ArunKumarValmiki/GitHub-Profile-Viewer.git
 cd github-profile-finder
 ```
 
-2. **Install dependencies
+2. **Install dependencies**
 
 ```bash
 npm install
 ```
 
-3. **Start the development server
+3. **Start the development server**
 
 ```bash
 npm start
 ```
-Open http://localhost:3000 to view it in your browser.
 
 ## 📁Project Structure
 
@@ -64,7 +63,8 @@ src/
 ```
 
 ## 🙋‍♂️ Author
-Arun Kumar Valmiki
+
+### Arun Kumar Valmiki
 
 
 
